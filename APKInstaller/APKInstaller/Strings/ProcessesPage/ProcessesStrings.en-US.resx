@@ -101,7 +101,7 @@
 		<value>Detail</value>
 	</data>
   <data name="DeviceComboBox.PlaceholderText" xml:space="preserve">
-		<value>Waiting for Device... https://crowdin. com/editor/Apk-Installer-Classic/196/en-en? View=comfortable#2388...</value>
+		<value>Waiting for Device...</value>
 	</data>
   <data name="Name.Header" xml:space="preserve">
 		<value>Name</value>
