@@ -139,7 +139,7 @@
     <value>Procese</value>
   </data>
   <data name="ProgressSettings.Description" xml:space="preserve">
-    <value>Test Progress Ring on the Title Bar</value>
+    <value>Testare bară de progres in bara de titlu</value>
   </data>
   <data name="ProgressSettings.Header" xml:space="preserve">
     <value>Progres</value>
@@ -154,13 +154,13 @@
     <value>Temă luminoasă </value>
   </data>
   <data name="ResizeModeSettings.Description" xml:space="preserve">
-    <value>Select Resize Mode of Window</value>
+    <value>Selectați mod redimensionare fereastră </value>
   </data>
   <data name="ResizeModeSettings.Header" xml:space="preserve">
-    <value>Resize Mode</value>
+    <value>Mod redimensionare</value>
   </data>
   <data name="SetProgressValue.Description" xml:space="preserve">
-    <value>Set the value of Progress Ring</value>
+    <value>Setare valoare bara de progres</value>
   </data>
   <data name="SetProgressValue.Header" xml:space="preserve">
     <value>Valoare progres</value>
@@ -175,18 +175,18 @@
     <value>Temă aplicație </value>
   </data>
   <data name="TitleBar.Title" xml:space="preserve">
-    <value>Testing</value>
+    <value>Testare</value>
   </data>
   <data name="TitleBarSettings.Description" xml:space="preserve">
-    <value>Extends Content Into TitleBar</value>
+    <value>Extinde conținutul in bara de titlu</value>
   </data>
   <data name="TitleBarSettings.Header" xml:space="preserve">
-    <value>Title Bar</value>
+    <value>Bară de titlu</value>
   </data>
   <data name="UITestSettingsHeader.Header" xml:space="preserve">
-    <value>UI Test</value>
+    <value>Testare UI</value>
   </data>
   <data name="WindowsColorButton.Content" xml:space="preserve">
-    <value>Windows Color Settings</value>
+    <value>Setări culoare Windows</value>
   </data>
 </root>
