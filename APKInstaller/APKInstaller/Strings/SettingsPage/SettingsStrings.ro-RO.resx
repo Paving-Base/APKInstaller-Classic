@@ -187,7 +187,7 @@
     <value>Suportați</value>
   </data>
   <data name="DonateTextBlock.Text" xml:space="preserve">
-    <value>APK Installer is an open source application, and it won't be inserted any ads for profit. If you like this app, don't forget to rate it in the store. Of course, it would be better if you could donate a little. Thanks for your supports 💕.</value>
+    <value>APK Installer este o aplicație open-source, și nu  voi adăuga reclame pentru profit. Daca iți place această aplicație, nu uita să lași o recenzie pe Store. De asemenea, ar fi frumos dacă ai putea să donezi un pic. Îți mulțumesc pentru suport.</value>
   </data>
   <data name="EULA.Content" xml:space="preserve">
     <value>EULA</value>
@@ -208,7 +208,7 @@
     <value>Mergi la Actualizare</value>
   </data>
   <data name="Group.Content" xml:space="preserve">
-    <value>Join Our Chat</value>
+    <value>Alăturați-vă discuției noastre</value>
   </data>
   <data name="LastChecked.Text" xml:space="preserve">
     <value>Ultima verificare:</value>
@@ -226,7 +226,7 @@
     <value>Evaluați în Microsoft Store</value>
   </data>
   <data name="ReleaseNotes.Content" xml:space="preserve">
-    <value>Release notes</value>
+    <value>Informații versiune</value>
   </data>
   <data name="ResetSettings.Description" xml:space="preserve">
     <value>Resetați setările acestei aplicații.</value>
@@ -247,10 +247,10 @@
     <value>Selectează Dispozitivul</value>
   </data>
   <data name="ShowDialogsSettings.Description" xml:space="preserve">
-    <value>Show helpers when no device is connected?</value>
+    <value>Arătați ajutoarele când nu este conectat niciun dispozitiv?</value>
   </data>
   <data name="ShowDialogsSettings.Header" xml:space="preserve">
-    <value>Is Show Helpers?</value>
+    <value>Arătați ajutoarele?</value>
   </data>
   <data name="ShowMessagesSettings.Description" xml:space="preserve">
     <value>Arată anunțurile în partea de sus a setărilor.</value>
