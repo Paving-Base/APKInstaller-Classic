@@ -110,7 +110,7 @@
 		<value>ID-ul procesului</value>
 	</data>
   <data name="ResidentSetSize.Header" xml:space="preserve">
-		<value>Resident Set Size</value>
+		<value>Mărime set rezident</value>
 	</data>
   <data name="State.Header" xml:space="preserve">
 		<value>Stare</value>
