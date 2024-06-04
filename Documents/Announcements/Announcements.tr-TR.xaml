@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<controls:SettingsGroup xmlns:controls="clr-namespace:APKInstaller.Controls;assembly=APKInstaller" xmlns:ui="http://schemas.modernwpf.com/2019" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Header="Bildirimler">
+<controls:SettingsGroup xmlns:controls="clr-namespace:APKInstaller.Controls;assembly=APKInstaller" xmlns:ui="http://schemas.modernwpf.com/2019" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Header="公告">
     <ui:InfoBar Title="İşte duyuru (Bu mesajın neden kapatma düğmesi olmadığını sormayın)" IsClosable="False" IsOpen="True" Message="Gelecekte her türlü bildirimi burada görebilirsiniz. Bunları görmek istemiyorsanız aşağıdaki ayarlardan kapatabilirsiniz." Severity="Informational"/>
     <ui:InfoBar Title="Daha Fazla Çeviri" IsClosable="True" IsOpen="True" Message="Oluşturan kişi sadece Çince ve İngilizce bildiği için tüm çeviriler topluluğa bırakılmıştır. Bilmediğiniz bir dil görmek istemiyorsanız, tercüme etmek için Crowdin'e hoş geldiniz!" Severity="Informational">
         <ui:InfoBar.ActionButton>
