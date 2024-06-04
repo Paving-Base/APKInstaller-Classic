@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<controls:SettingsGroup xmlns:controls="clr-namespace:APKInstaller.Controls;assembly=APKInstaller" xmlns:ui="http://schemas.modernwpf.com/2019" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Header="Announcements">
-    <ui:InfoBar Title="Here is the announcement (Don't ask me why this message doesn't have a close button)" IsClosable="False" IsOpen="True" Message="You can see all kinds of notifications here in the future. If you don't want to see them, you can turn them off in the settings below." Severity="Informational"/>
-    <ui:InfoBar Title="More Translations" IsClosable="True" IsOpen="True" Message="Since the author only knows Chinese and English, all translations are left to the community. If you don't want to see an unfamiliar language, welcome to Crowdin to translate!" Severity="Informational">
+<controls:SettingsGroup xmlns:controls="clr-namespace:APKInstaller.Controls;assembly=APKInstaller" xmlns:ui="http://schemas.modernwpf.com/2019" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Header="Новости">
+    <ui:InfoBar Title="Это уведомление (Не спрашивайте меня, почему оно не имеет кнопки закрытия)" IsClosable="False" IsOpen="True" Message="В будущем вы сможете увидеть здесь всевозможные уведомления. Если вы не хотите их видеть, вы можете отключить их в настройках ниже." Severity="Informational"/>
+    <ui:InfoBar Title="Больше переводов" IsClosable="True" IsOpen="True" Message="Поскольку автор знает только китайский и английский языки, все переводы оставлены на усмотрение сообщества. Если вы не хотите видеть незнакомый язык, добро пожаловать в Crowdin для перевода!" Severity="Informational">
         <ui:InfoBar.ActionButton>
-            <ui:HyperlinkButton HorizontalAlignment="Right" Content="Click Me" NavigateUri="https://crowdin.com/project/APK-Installer-Classic"/>
+            <ui:HyperlinkButton HorizontalAlignment="Right" Content="Нажми на меня" NavigateUri="https://crowdin.com/project/APK-Installer-Classic"/>
         </ui:InfoBar.ActionButton>
     </ui:InfoBar>
 </controls:SettingsGroup>

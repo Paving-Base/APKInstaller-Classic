@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<controls:SettingsGroup xmlns:controls="clr-namespace:APKInstaller.Controls;assembly=APKInstaller" xmlns:ui="http://schemas.modernwpf.com/2019" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Header="Announcements">
-    <ui:InfoBar Title="Here is the announcement (Don't ask me why this message doesn't have a close button)" IsClosable="False" IsOpen="True" Message="You can see all kinds of notifications here in the future. If you don't want to see them, you can turn them off in the settings below." Severity="Informational"/>
-    <ui:InfoBar Title="More Translations" IsClosable="True" IsOpen="True" Message="Since the author only knows Chinese and English, all translations are left to the community. If you don't want to see an unfamiliar language, welcome to Crowdin to translate!" Severity="Informational">
+<controls:SettingsGroup xmlns:controls="clr-namespace:APKInstaller.Controls;assembly=APKInstaller" xmlns:ui="http://schemas.modernwpf.com/2019" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Header="Anunțuri">
+    <ui:InfoBar Title="Aici este anunțul (Nu mă întrebați de ce acest mesaj nu are un buton de închidere)" IsClosable="False" IsOpen="True" Message="Poți să vezi tot felul de notificări aici în viitor. Dacă nu vrei să le vezi, poți să le oprești în setări mai jos." Severity="Informational"/>
+    <ui:InfoBar Title="Mai multe traduceri" IsClosable="True" IsOpen="True" Message="Deoarece autorul ştie doar chineză şi engleză, toate traducerile sunt lăsate comunităţii. Dacă nu doriţi să vedeţi un limbaj nefamiliar, bine aţi venit în Crowdin pentru a traduce!" Severity="Informational">
         <ui:InfoBar.ActionButton>
-            <ui:HyperlinkButton HorizontalAlignment="Right" Content="Click Me" NavigateUri="https://crowdin.com/project/APK-Installer-Classic"/>
+            <ui:HyperlinkButton HorizontalAlignment="Right" Content="Faceți clic pe mine" NavigateUri="https://crowdin.com/project/APK-Installer-Classic"/>
         </ui:InfoBar.ActionButton>
     </ui:InfoBar>
 </controls:SettingsGroup>
