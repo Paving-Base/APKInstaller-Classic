@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutADB" xml:space="preserve">
-    <value>ADB (Android Debug Bridge) необходим для работы программы APK Installer. Нажмите "Скачать", для загрузки. Загружая, вы принимаете Условия и Положения Google для ADB. Если вы уже скачали ADB, нажмите "Выбрать", чтобы выбрать его.</value>
+    <value>ADB, Android Debug Bridge, необходим для работы APK Installer. Нажмите "Загрузить" для загрузки. Загружая, вы принимаете Google Условия и Условия для АБР. Если вы уже скачали ADB, нажмите "Выбрать", чтобы выбрать их.</value>
   </data>
   <data name="ADBExist" xml:space="preserve">
     <value>ADB установлен</value>
