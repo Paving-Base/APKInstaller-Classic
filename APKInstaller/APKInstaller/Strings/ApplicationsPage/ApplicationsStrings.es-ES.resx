@@ -98,10 +98,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DeviceComboBox.PlaceholderText" xml:space="preserve">
-		<value>Esperando un Dispositivo...</value>
+		<value>Esperando un dispositivo... has...</value>
 	</data>
   <data name="Start.Text" xml:space="preserve">
-		<value>Comenzar</value>
+		<value>Empezar</value>
 	</data>
   <data name="Stop.Text" xml:space="preserve">
 		<value>Parar</value>

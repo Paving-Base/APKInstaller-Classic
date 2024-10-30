@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutADB" xml:space="preserve">
-    <value>APK Yükleyicisinin çalışması için Android Hata Ayıklama Köprüsü, ADB gereklidir. İndirmek için "İndir"e tıklayın. İndirerek Google Hüküm ve Koşullarını kabul etmiş olursunuz. ADB'yi daha önce indirdiyseniz seçmek için "Seç"e tıklayın.</value>
+    <value>Https://crowdin. com/editor/APK-Installer-Classic/141/en-af? view=comfortable#1896.</value>
   </data>
   <data name="ADBExist" xml:space="preserve">
-    <value>ADB bulundu</value>
+    <value>ADB Var</value>
   </data>
   <data name="ADBMissing" xml:space="preserve">
-    <value>ADB bulunamadı</value>
+    <value/>
   </data>
   <data name="APKFileFlyoutItem.Text" xml:space="preserve">
-    <value>APK dosyası</value>
+    <value>Https://crowdin. com/editor/APK-Installer-Classic/141/en-af? view=comfortable#2358</value>
   </data>
   <data name="AppCapabilities.HeadText" xml:space="preserve">
     <value>Özellikler:</value>
@@ -246,13 +246,14 @@
     <value>Android Cihazı Bulunamıyor</value>
   </data>
   <data name="NoDeviceInfo" xml:space="preserve">
-    <value>WSA'yı yükleyebilir ya da cihazınızı bağlamak için ayarlara gidebilirsiniz.</value>
+    <value>192.168.1.101
+</value>
   </data>
   <data name="NoDeviceInfo10" xml:space="preserve">
-    <value>Cihazınızı bağlamak için ayarlara gidebilirsiniz.</value>
+    <value>WSA'yı yükleyebilirsiniz ya da cihazı bağlamak için ayarlara gidin.</value>
   </data>
   <data name="NoInternet" xml:space="preserve">
-    <value>İnternete bağlanılamadı</value>
+    <value>192.168.1.101</value>
   </data>
   <data name="NoInternetInfo" xml:space="preserve">
     <value>Lütfen uygulamayı açmadan önce internete bağlanın.</value>
