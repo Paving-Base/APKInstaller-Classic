@@ -163,7 +163,7 @@
     <value>Установить значение кольца прогресса</value>
   </data>
   <data name="SetProgressValue.Header" xml:space="preserve">
-    <value>Значение прогресса</value>
+    <value>Progress Value</value>
   </data>
   <data name="ShowRefreshButton.Description" xml:space="preserve">
     <value>Показывать кнопку обновления на заголовке</value>
