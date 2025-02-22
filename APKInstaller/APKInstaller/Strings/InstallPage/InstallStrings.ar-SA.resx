@@ -121,46 +121,46 @@
     <value>ADB، جسر تصحيح أخطاء أندرويد، مطلوب لتثبيت APK للعمل. انقر فوق "تنزيل" لتحميله. من خلال التنزيل، أنت تقبل شروط وأحكام Google لـ ADB. إذا كنت قد قمت بتنزيل ADB بالفعل، انقر فوق "إختار" لتحديد ذلك.</value>
   </data>
   <data name="ADBExist" xml:space="preserve">
-    <value>ADB Exist</value>
+    <value>ADB موجود</value>
   </data>
   <data name="ADBMissing" xml:space="preserve">
-    <value>ADB is missing</value>
+    <value>ADB مفقود</value>
   </data>
   <data name="APKFileFlyoutItem.Text" xml:space="preserve">
-    <value>APK File</value>
+    <value>ملف APK</value>
   </data>
   <data name="AppCapabilities.HeadText" xml:space="preserve">
-    <value>Capabilities:</value>
+    <value>القدرات:</value>
   </data>
   <data name="AppNameFlyoutItem.Text" xml:space="preserve">
-    <value>App Name</value>
+    <value>اسم التطبيق</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>إلغاء</value>
   </data>
   <data name="CannotOpenPackage" xml:space="preserve">
-    <value>Cannot open app package</value>
+    <value>لا يمكن فتح حُزْمَة التطبيق</value>
   </data>
   <data name="Checking" xml:space="preserve">
-    <value>Checking...</value>
+    <value>جارٍ التحقق...</value>
   </data>
   <data name="CheckingADB" xml:space="preserve">
-    <value>Checking ADB...</value>
+    <value>التحقق من ADB...</value>
   </data>
   <data name="CheckingPath" xml:space="preserve">
-    <value>Checking Path...</value>
+    <value>التحقق من المسار...</value>
   </data>
   <data name="ChooseADB" xml:space="preserve">
-    <value>Choose ADB</value>
+    <value>اختر ADB</value>
   </data>
   <data name="ClickToRead" xml:space="preserve">
-    <value>Click here to read them</value>
+    <value>قم بالنقر هنا لقراءتهم</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>إغلاق</value>
   </data>
   <data name="CopyFlyoutItem.Text" xml:space="preserve">
-    <value>Copy</value>
+    <value>نسخ</value>
   </data>
   <data name="Devices" xml:space="preserve">
     <value>Devices</value>
