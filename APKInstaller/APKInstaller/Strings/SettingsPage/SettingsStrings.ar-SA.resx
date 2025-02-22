@@ -142,7 +142,7 @@
     <value>Check For Updates</value>
   </data>
   <data name="ChooseADB" xml:space="preserve">
-    <value>Choose ADB</value>
+    <value>اختر ADB</value>
   </data>
   <data name="CleanCacheButton.Content" xml:space="preserve">
     <value>Clear cache</value>
