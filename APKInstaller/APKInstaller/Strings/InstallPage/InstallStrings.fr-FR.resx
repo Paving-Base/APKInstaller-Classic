@@ -136,7 +136,7 @@
     <value>Disque dur</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value/>
   </data>
   <data name="CannotOpenPackage" xml:space="preserve">
     <value>Cannot open app package</value>
