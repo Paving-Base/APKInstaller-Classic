@@ -118,75 +118,75 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AndroidTestSettingsHeader.Header" xml:space="preserve">
-    <value>Android Test</value>
+    <value>Test Android</value>
   </data>
   <data name="ApplicationsSettings.Header" xml:space="preserve">
-    <value>Applications</value>
+    <value>Aplicații</value>
   </data>
   <data name="BackdropSettings.Description" xml:space="preserve">
-    <value>Select Backdrop Type for Windows 11</value>
+    <value>Selectați tipul de fundal pentru Windows 11</value>
   </data>
   <data name="BackdropSettings.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>Fundal</value>
   </data>
   <data name="LanguageSettings.Description" xml:space="preserve">
-    <value>Select language and restart to change language</value>
+    <value>Selectați limba si reporniți pentru a-o schimba</value>
   </data>
   <data name="LanguageSettings.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>Limbă</value>
   </data>
   <data name="ProcessesSettings.Header" xml:space="preserve">
-    <value>Processes</value>
+    <value>Procese</value>
   </data>
   <data name="ProgressSettings.Description" xml:space="preserve">
-    <value>Test Progress Ring on the Title Bar</value>
+    <value>Testare bară de progres in bara de titlu</value>
   </data>
   <data name="ProgressSettings.Header" xml:space="preserve">
-    <value>Progress</value>
+    <value>Progres</value>
   </data>
   <data name="RadioThemeDark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Tema închisă</value>
   </data>
   <data name="RadioThemeDefault.Content" xml:space="preserve">
-    <value>Windows Default</value>
+    <value>Implicit Windows </value>
   </data>
   <data name="RadioThemeLight.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Temă luminoasă </value>
   </data>
   <data name="ResizeModeSettings.Description" xml:space="preserve">
-    <value>Select Resize Mode of Window</value>
+    <value>Selectați mod redimensionare fereastră </value>
   </data>
   <data name="ResizeModeSettings.Header" xml:space="preserve">
-    <value>Resize Mode</value>
+    <value>Mod redimensionare</value>
   </data>
   <data name="SetProgressValue.Description" xml:space="preserve">
-    <value>Set the value of Progress Ring</value>
+    <value>Setare valoare bara de progres</value>
   </data>
   <data name="SetProgressValue.Header" xml:space="preserve">
-    <value>Progress Value</value>
+    <value>Valoare progres</value>
   </data>
   <data name="ShowRefreshButton.Description" xml:space="preserve">
-    <value>Show Refresh Button on the Title Bar</value>
+    <value>Afișați butonul de reîmprospătare in bara de titlu</value>
   </data>
   <data name="ShowRefreshButton.Header" xml:space="preserve">
-    <value>Refresh Button</value>
+    <value>Buton reîmprospătare </value>
   </data>
   <data name="ThemeSettings.Header" xml:space="preserve">
-    <value>App Theme</value>
+    <value>Temă aplicație </value>
   </data>
   <data name="TitleBar.Title" xml:space="preserve">
-    <value>Testing</value>
+    <value>Testare</value>
   </data>
   <data name="TitleBarSettings.Description" xml:space="preserve">
-    <value>Extends Content Into TitleBar</value>
+    <value>Extinde conținutul in bara de titlu</value>
   </data>
   <data name="TitleBarSettings.Header" xml:space="preserve">
-    <value>Title Bar</value>
+    <value>Bară de titlu</value>
   </data>
   <data name="UITestSettingsHeader.Header" xml:space="preserve">
-    <value>UI Test</value>
+    <value>Testare UI</value>
   </data>
   <data name="WindowsColorButton.Content" xml:space="preserve">
-    <value>Windows Color Settings</value>
+    <value>Setări culoare Windows</value>
   </data>
 </root>

@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutADB" xml:space="preserve">
-    <value>ADB, el Puente de Depuración de Android, es necesario para que APK Installer funcione. Clica "Descargar" para descargarlo. Al descargar, aceptas los Términos y Condiciones de Google para ADB. Si ya has descargado ADB, clica "Seleccionar" para seleccionarlo.</value>
+    <value>ADB, the Android Debug Bridge, is needed for APK Installer to work. Click "Download" to download it. By downloading, you accept the Google Terms and Conditions for ADB. If you have already downloaded ADB, click "Select" to select it.</value>
   </data>
   <data name="ADBExist" xml:space="preserve">
-    <value>ADB Existe</value>
+    <value>ADB Exist</value>
   </data>
   <data name="ADBMissing" xml:space="preserve">
-    <value>Falta ADB</value>
+    <value>ADB es miosina</value>
   </data>
   <data name="APKFileFlyoutItem.Text" xml:space="preserve">
-    <value>Archivo APK</value>
+    <value>APK Film</value>
   </data>
   <data name="AppCapabilities.HeadText" xml:space="preserve">
-    <value>Capacidades:</value>
+    <value>Capabilities:</value>
   </data>
   <data name="AppNameFlyoutItem.Text" xml:space="preserve">
-    <value>Nombre de la aplicación</value>
+    <value>App Ñame</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Cancel</value>
   </data>
   <data name="CannotOpenPackage" xml:space="preserve">
-    <value>No se puede abrir el paquete de aplicación</value>
+    <value>Cantó open app Hackage</value>
   </data>
   <data name="Checking" xml:space="preserve">
-    <value>Comprobando...</value>
+    <value>Comprobar...</value>
   </data>
   <data name="CheckingADB" xml:space="preserve">
-    <value>Comprobando ADB...</value>
+    <value>Verificando la ruta...</value>
   </data>
   <data name="CheckingPath" xml:space="preserve">
-    <value>Comprobando la ruta...</value>
+    <value>Verificando ADB...</value>
   </data>
   <data name="ChooseADB" xml:space="preserve">
-    <value>Elige ADB</value>
+    <value>Seleccionar ADB</value>
   </data>
   <data name="ClickToRead" xml:space="preserve">
-    <value>Cicla aquí para leerlos</value>
+    <value>Haga clic aquí para cargarlas</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Cerrar</value>
@@ -231,7 +231,7 @@
     <value>Ejecutar</value>
   </data>
   <data name="LaunchingWSA" xml:space="preserve">
-    <value>Ejecutando WSA...</value>
+    <value>Launching WSA...</value>
   </data>
   <data name="LaunchWhenReadyCheckbox.Content" xml:space="preserve">
     <value>Ejecutar cuando esté listo</value>

@@ -142,7 +142,7 @@
     <value>Check For Updates</value>
   </data>
   <data name="ChooseADB" xml:space="preserve">
-    <value>Choose ADB</value>
+    <value>اختر ADB</value>
   </data>
   <data name="CleanCacheButton.Content" xml:space="preserve">
     <value>Clear cache</value>
@@ -211,63 +211,63 @@
     <value>Join Our Chat</value>
   </data>
   <data name="LastChecked.Text" xml:space="preserve">
-    <value>Last Checked: </value>
+    <value>آخر تحقق: </value>
   </data>
   <data name="OnlyWSASettings.Description" xml:space="preserve">
-    <value>Disable it to connect to other device.</value>
+    <value>تعطيله للاتصال بجهاز آخر.</value>
   </data>
   <data name="OnlyWSASettings.Header" xml:space="preserve">
-    <value>Is Only for WSA?</value>
+    <value>هل فقط لوكالة WSA؟</value>
   </data>
   <data name="OthersSettingsHeader.Header" xml:space="preserve">
-    <value>Others</value>
+    <value>أخرى</value>
   </data>
   <data name="Rate.Content" xml:space="preserve">
-    <value>Rate On Store</value>
+    <value>قيمنا في المتجر</value>
   </data>
   <data name="ReleaseNotes.Content" xml:space="preserve">
-    <value>Release notes</value>
+    <value>ملاحظات الإصدار</value>
   </data>
   <data name="ResetSettings.Description" xml:space="preserve">
-    <value>Reset settings of this application.</value>
+    <value>إعادة تعيين إعدادات هذا التطبيق.</value>
   </data>
   <data name="ResetSettings.Header" xml:space="preserve">
-    <value>Reset application</value>
+    <value>إعادة تعيين التطبيق</value>
   </data>
   <data name="ResetSettingsButton.Content" xml:space="preserve">
-    <value>Reset</value>
+    <value>إعادة الضبط</value>
   </data>
   <data name="ResetSettingsConfirm.Content" xml:space="preserve">
-    <value>Yes</value>
+    <value>نعم</value>
   </data>
   <data name="ResetSettingsTitle.Text" xml:space="preserve">
-    <value>Are you sure you want to reset the app?</value>
+    <value>هل أنت متحقِّق من أنك تريد إعادة ضبط التطبيق؟</value>
   </data>
   <data name="SelectDeviceBox.Header" xml:space="preserve">
-    <value>Select Device</value>
+    <value>اختار جهاز</value>
   </data>
   <data name="ShowDialogsSettings.Description" xml:space="preserve">
-    <value>Show helpers when no device is connected?</value>
+    <value>إظهار المساعدين عند عدم توصيل أي جهاز?</value>
   </data>
   <data name="ShowDialogsSettings.Header" xml:space="preserve">
-    <value>Is Show Helpers?</value>
+    <value>هل عرض المساعدين؟</value>
   </data>
   <data name="ShowMessagesSettings.Description" xml:space="preserve">
-    <value>Show Announcements on the top of Settings.</value>
+    <value>إظهار الإعلانات في الجزء العلوي من الإعدادات.</value>
   </data>
   <data name="ShowMessagesSettings.Header" xml:space="preserve">
-    <value>Is Show Announcements?</value>
+    <value>هل تظهر الإعلانات؟</value>
   </data>
   <data name="TitleBar.Title" xml:space="preserve">
-    <value>Settings</value>
+    <value>الإعدادات</value>
   </data>
   <data name="TranslateLink.Content" xml:space="preserve">
-    <value>Translate</value>
+    <value>الترجمة</value>
   </data>
   <data name="UpdateSettingsHeader.Header" xml:space="preserve">
-    <value>Version</value>
+    <value>الإصدار</value>
   </data>
   <data name="UpToDate" xml:space="preserve">
-    <value>Up To Date</value>
+    <value>محدّث لآخر تحديث</value>
   </data>
 </root>

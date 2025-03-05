@@ -101,7 +101,7 @@
 		<value>Szczegóły</value>
 	</data>
   <data name="DeviceComboBox.PlaceholderText" xml:space="preserve">
-		<value>Czekanie na urządzenie...</value>
+		<value>Oczekiwanie na urządzenie...</value>
 	</data>
   <data name="Name.Header" xml:space="preserve">
 		<value>Nazwa</value>
@@ -110,7 +110,7 @@
 		<value>ID procesu</value>
 	</data>
   <data name="ResidentSetSize.Header" xml:space="preserve">
-		<value>Resident Set Size</value>
+		<value>Rozmiar zestawu rezydentów</value>
 	</data>
   <data name="State.Header" xml:space="preserve">
 		<value>Status</value>

@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Less" xml:space="preserve">
-    <value>Less</value>
+    <value>Mai puține</value>
   </data>
   <data name="More" xml:space="preserve">
-    <value>More</value>
+    <value>Mai multe</value>
   </data>
 </root>
